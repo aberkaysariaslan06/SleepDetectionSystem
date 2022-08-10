@@ -1,5 +1,5 @@
 # SleepDetectionSystem
- Sleep Detection for Driver
+ Sleep Detection for Driver.
 This application is designed for a computer vision. 
 It was prepared using python language for the first time. 
 In addition, this practice has been academically reported. 
